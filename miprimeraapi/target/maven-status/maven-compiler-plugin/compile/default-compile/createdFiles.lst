@@ -1,0 +1,6 @@
+cl\duoc\miprimeraapi\model\BaseDeDatos.class
+cl\duoc\miprimeraapi\model\Producto.class
+cl\duoc\miprimeraapi\controller\ProductoController.class
+cl\duoc\miprimeraapi\model\Sucursal.class
+cl\duoc\miprimeraapi\controller\SucursalController.class
+cl\duoc\miprimeraapi\MiprimeraapiApplication.class
